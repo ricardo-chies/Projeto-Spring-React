@@ -11,6 +11,7 @@ Consultas agrupadas para gráficos; <br>
 
 Link do app: https://dsvendas-chies.netlify.app 
 
+# Layout do Projeto
 
 <p align="center">
   <img width="900" height="450" src="frontend/src/assets/to_readme/ChiesVendas.gif">
