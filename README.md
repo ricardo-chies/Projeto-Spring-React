@@ -33,6 +33,7 @@ Link do app: https://dsvendas-chies.netlify.app
   </ul>
 
 # Autor
+José Ricardo Chies Gonçalves
 
 LinkedIn:
 https://www.linkedin.com/in/ricardo-chies-087557216/
